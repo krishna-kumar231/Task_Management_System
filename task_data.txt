@@ -1,0 +1,7 @@
+Buy groceries::Buy vegetables and fruits::True
+Prepare presentation::Research, outline, and create slides::True
+playing cricket::batting and balling::True
+sleeping::sleeping on the bed::False
+sleeping::sleeping on the bed::True
+bathing::bathing on the bathroom::False
+playing game::field::False
